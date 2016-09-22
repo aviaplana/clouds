@@ -1,2 +1,2 @@
 # clouds
-Clouds performance Ginseng
+Arduino sketch that controls led strips in order to simulate a lightning storm
